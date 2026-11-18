@@ -1,0 +1,20 @@
+id = "ed3d_openings"
+version = "1.4"
+author = "Phillip Edwards (Eddy)"
+author_url = "https://github.com/eddy-99"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo"
+download = "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/b5cdd347feac1eab7d0bf73aba3d810097699511/plugins/3D_Eddys/ed3d_openings.py"
+sha256 = "08a97266f9c34e1c52282d1a0c8afd28689023f4698ff996ba7428a80ea2cb5a"
+ingetrazo = "0.5.11"
+tags = ["drawing", "fabrication"]
+
+[name]
+es = "Huecos 3D"
+en = "3D Openings"
+pt = "Vãos 3D"
+
+[summary]
+es = "Abre huecos de ventanas y puertas en los muros: escribe los huecos de cada muro (W D W) o dibuja cualquier forma, con dintel recto o en arco y mochetas alrededor. Cada muro sigue siendo una sola pieza que se imprime tumbada."
+en = "Cuts window and door openings through walls: type the openings along each wall (W D W) or draw any shape, with square or arched tops and reveals all round. Each wall stays one piece that prints flat."
+pt = "Abre vãos de janelas e portas nas paredes: escreva os vãos de cada parede (W D W) ou desenhe qualquer forma, com topo reto ou em arco e ombreiras à volta. Cada parede continua a ser uma só peça que se imprime deitada."
